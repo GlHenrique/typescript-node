@@ -920,6 +920,11 @@ conventional-changelog-conventionalcommits@4.3.0:
     lodash "^4.17.15"
     q "^1.5.1"
 
+conventional-changelog-lint-config-emoji-log@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/conventional-changelog-lint-config-emoji-log/-/conventional-changelog-lint-config-emoji-log-0.3.0.tgz#c06578ee8badbb330073d81305c41dd738f1b1ea"
+  integrity sha512-3zZo9zrsJP6ynTBflXZCPvVhMhcck037+v6+KerfN1a9yblr387vK5nPSTO3RL1TFeIpKd2vZefWHRqwQ3kvMA==
+
 conventional-commit-types@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/conventional-commit-types/-/conventional-commit-types-3.0.0.tgz#7c9214e58eae93e85dd66dbfbafe7e4fffa2365b"
